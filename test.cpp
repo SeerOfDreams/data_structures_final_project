@@ -8,6 +8,8 @@ HashTable::HashTable(int hashSize){
   numCollisions = 0;
 }
 
+//look a change
+
 HashTable::~HashTable(){
   wordItem* temp;
   wordItem* next;
